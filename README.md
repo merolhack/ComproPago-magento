@@ -1,4 +1,4 @@
-conekta-magento
+ComproPago-magento
 ==============
 
 Installation
